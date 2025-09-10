@@ -1,0 +1,35 @@
+
+body {
+	background:  #f5e9da;
+	font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+
+header {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+}
+
+main {
+	background: whitesmoke;
+}
+
+h1, h2, h3 {
+	color: #6d4c41;
+	font-family: 'Segoe UI', Arial, sans-serif;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+	display: block;
+	margin: 10px auto;
+	height: 200px;
+    width: 300px;
+	border: 4px solid brown;
+}
+
